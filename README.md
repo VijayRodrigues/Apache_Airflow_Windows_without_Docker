@@ -3,6 +3,27 @@ Apache Airflow installation on Windows without Docker
 
 Note: It's assumed you already have Ubuntu installed on your system.
 
+As of Apache **Airflow 2.10.2**, the supported Python versions are:
+
+**- Python 3.7
+- Python 3.8
+- Python 3.9
+- Python 3.10
+- Python 3.11**
+
+**⚠️ Important Notes:**
+
+- **Python 3.6** support was officially** dropped in Airflow 2.4.**
+- **Python 3.7** support is expected to be dropped in future releases (possibly Airflow 3.0).
+- Always refer to the official **Apache Airflow documentation** (https://airflow.apache.org/docs/apache-airflow/stable/installation/prerequisites.html) for the most up-to-date information on Python version compatibility.
+
+**💡 How to Check Compatibility:**
+Before installing, make sure your Python version is compatible with the Airflow version you're planning to use. You can check the Python version on your system with:
+
+
+
+
+
 
 
 ## Step 1: Install Python 3.9 on Ubuntu
