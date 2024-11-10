@@ -40,7 +40,11 @@ To access the Airflow Web UI, you can create an admin user:
 
 ## 🌐 Step 8: Access Airflow Web UI
 Open your browser and go to:
+
+
+
 ![img_8_git](https://github.com/user-attachments/assets/4c5ef6ae-34be-4c8b-8948-4af9be346ac9)
+
 
 
 You should now see the Apache Airflow dashboard!
