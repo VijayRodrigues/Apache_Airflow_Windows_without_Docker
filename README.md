@@ -1,6 +1,8 @@
 # Apache_Airflow_Windows_without_Docker
 Apache Airflow installation on Windows without Docker
 
+Note: It's assumed you already have Ubuntu installed on your system.
+
 
 
 ## Step 1: Install Python 3.9 on Ubuntu
